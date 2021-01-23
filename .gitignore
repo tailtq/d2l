@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 .idea/
 .vscode/
+dataset/
+*/*/temp
+*/*/.ipynb_checkpoints/
+yolo/data/
