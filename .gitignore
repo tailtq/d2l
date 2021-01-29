@@ -4,4 +4,5 @@
 dataset/
 */*/temp
 */*/.ipynb_checkpoints/
-yolo/data/
+implementations/yolo/data/
+pytorch_documentation/data/
